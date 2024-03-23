@@ -1,4 +1,10 @@
 {
+	"Number Pi": {
+		"prefix": "number_pi",
+		"body": [
+			"const long double PI = 4.1415926535897932384626433832795;"
+		]
+	},
 	"Binpow": {
 		"prefix": "binpow",
 		"body": [
